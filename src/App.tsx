@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header>
         <h1>SVG Path Debugger</h1>
-        <p>Visualizza, analizza e debugga i tuoi SVG path in tempo reale</p>
+        <p>Visualize, analyze and debug your SVG paths in real time</p>
       </header>
       <main>
         <SVGPathDebugger />

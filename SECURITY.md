@@ -10,7 +10,7 @@ We release patches for security vulnerabilities. Here are the versions that are 
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within SVG Path Debugger, please send an email to [vincenzo.maritato@gmail.com](mailto:vincenzo.maritato@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within SVG Path Debugger, please send an email to [hello@vmaritato.com](mailto:hello@vmaritato.com). All security vulnerabilities will be promptly addressed.
 
 Please include the following information in your report:
 

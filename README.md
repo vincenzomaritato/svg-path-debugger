@@ -8,6 +8,8 @@
 
 A modern, interactive tool for visualizing and debugging SVG paths in real-time. Built with React and TypeScript, this application provides an intuitive interface for working with SVG path data.
 
+[🔗 Live Demo](https://vincenzomaritato.github.io/svg-path-debugger/)
+
 ![SVG Path Debugger Screenshot](screenshot.png)
 
 ## ✨ Features
@@ -33,7 +35,7 @@ A modern, interactive tool for visualizing and debugging SVG paths in real-time.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/vmaritato/svg-path-debugger.git
+git clone https://github.com/vincenzomaritato/svg-path-debugger.git
 cd svg-path-debugger
 ```
 
@@ -90,11 +92,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-- **Vincenzo Maritato** - [vmaritato.dev](https://vmaritato.dev)
+- **Vincenzo Maritato** - [vmaritato.com](https://vmaritato.com)
 
 ## 🔒 Security
 
-If you discover any security-related issues, please email [vincenzo.maritato@gmail.com](mailto:vincenzo.maritato@gmail.com) instead of using the issue tracker.
+If you discover any security-related issues, please email [hello@vmaritato.com](mailto:hello@vmaritato.com) instead of using the issue tracker.
 
 ## 🙏 Acknowledgments
 
